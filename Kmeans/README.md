@@ -3,7 +3,8 @@ This are the task performed in the Kmeans programme file
     1.use the g.csv file as a dataset
     2. Upload the data into environment
     3. Observe the data 
-    4. We’ll need to drop the Channel and Region variables.  These are two ID fields and are not useful in clustering. So drop it.
+    4. We’ll need to drop the Channel and Region variables.  
+    These are two ID fields and are not useful in clustering. So drop it.
     5. Set some seed value
     6. Apply the k-mean on dataset, with k=5
     7. Observe the #number samples in each cluster
