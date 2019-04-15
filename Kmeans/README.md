@@ -1,4 +1,4 @@
-This are the task performed in the Kmeans programme file
+This are the task performed in the kmeans.ipynb programme file
     
     1.use the g.csv file as a dataset
     2. Upload the data into environment
